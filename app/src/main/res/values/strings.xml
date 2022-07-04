@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Closed MR</string>
+    <string name="nothing_found">Nothing Found</string>
+    <string name="ClosedMrFragment">ClosedMrFragment</string>
+    <string name="str_title">Title:</string>
+    <string name="str_date_created">Date Created:</string>
+    <string name="str_date_closed">Date Closed:</string>
+    <string name="str_user_name">User Name:</string>
+    <string name="str_retry">Retry</string>
+    <string name="str_exit">Exit</string>
+    <string name="str_error_message">An error occured Please retry</string>
+    <string name="next">Next</string>
+</resources>
